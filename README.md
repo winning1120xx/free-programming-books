@@ -16,7 +16,7 @@ The repo is now administered by the [Free Ebook Foundation](https://ebookfoundat
 Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github, [welcome](/HOWTO.md)!
 
 ### How to Share
-+ [Share on Twitter](http://twitter.com/home?status=https://github.com/EbookFoundation/free-programming-books%0AFree%20Programming%20Books)
++ [Share on Twitter](http://twitter.com/intent/tweet?text=https://github.com/EbookFoundation/free-programming-books%0AFree%20Programming%20Books)
 + [Share on Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/EbookFoundation/free-programming-books&p[images][0]=&p[title]=Free%20Programming%20Books&p[summary]=)
 + [Share on Google Plus](https://plus.google.com/share?url=https://github.com/EbookFoundation/free-programming-books)
 + [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/EbookFoundation/free-programming-books&title=Free%20Programming%20Books&summary=&source=)
@@ -31,8 +31,11 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github, [welcome]
 + [Burmese](/free-programming-books-mm.md)
 + [Chinese](/free-programming-books-zh.md)
 + [Czech](/free-programming-books-cs.md)
++ [Danish](/free-programming-books-dk.md)
 + [Dutch](/free-programming-books-nl.md)
 + [English](/free-programming-books.md)
++ [Estonian](/free-programming-books-et.md)
++ [Finnish](/free-programming-books-fi.md)
 + [French](/free-programming-books-fr.md)
 + [German](/free-programming-books-de.md)
 + [Greek](/free-programming-books-gr.md)
@@ -50,15 +53,20 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github, [welcome]
 + [Slovak](/free-programming-books-sk.md)
 + [Spanish](/free-programming-books-es.md)
 + [Swedish](/free-programming-books-se.md)
++ [Tamil](/free-programming-books-ta.md)
 + [Turkish](/free-programming-books-tr.md)
 + [Ukrainian](/free-programming-books-ua.md)
 
 
 ### Free Online Courses
++ [Bulgarian](/free-courses-bg.md)
 + [English](/free-courses-en.md)
++ [Finnish](/free-courses-fi.md)
 + [German](/free-courses-de.md)
 + [Italian](/free-courses-it.md)
++ [Korean](/free-courses-ko.md)
 + [Polish](/free-courses-pl.md)
++ [Portuguese (Brazil)](/free-courses-pt_BR.md)
 + [Russian](/free-courses-ru.md)
 + [Spanish](/free-courses-es.md)
 + [Vietnamese](/free-courses-vi.md)
@@ -87,4 +95,4 @@ Free Podcasts and Screencasts:
 + [Free Programming Playgrounds](/free-programming-playgrounds.md)
 
 ## License
-Each file included in this repository is licensed under the [CC BY License](/LICENSE.md).
+Each file included in this repository is licensed under the [CC BY License](/LICENSE).

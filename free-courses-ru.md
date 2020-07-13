@@ -1,7 +1,9 @@
 ### Index
 
 * [Clojure](#clojure)
+* [Haskell](#haskell)
 * [Java](#java)
+* [PHP](#php)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
 * [React](#react)
@@ -19,11 +21,22 @@ ADV - продвинутый. Тонкости.
 * [Курс Clojure](https://clojurecourse.by) (BEG)
 
 
+### Haskell
+
+* [Функциональное программирование на языке Haskell](https://stepik.org/course/75) (INT)
+* [Функциональное программирование на языке Haskell (часть 2)](https://stepik.org/course/693) (ADV)
+
+
 ### Java
 
 * [Java. Путь от ученика до эксперта.](http://www.job4j.ru/courses/java_way_from_student_to_master.html) - Пётр Арсентьев (INT)
 * [Вводный курс. Java в аналогиях.](http://www.job4j.ru/courses/java_beginner.html) - Пётр Арсентьев (BEG)
 * [Курс тест по Java](https://github.com/peterarsentev/course_test) - Пётр Арсентьев (BEG)
+
+
+### PHP
+
+* [Основы программирования на PHP](https://code-basics.ru/languages/php) (BEG) (:construction: *in process*)
 
 
 ### PostgreSQL
